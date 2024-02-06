@@ -27,11 +27,3 @@ Ensure your environment is equipped to run Jupyter notebooks with Python 3.8 or 
 1. **Optional**: Execute the `aromanian_text_cleaning.ipynb` notebook if you wish to preprocess additional texts or explore the preprocessing steps. This step can be skipped if using the preprocessed dataset.
 2. Run the `aromanian_translation_model_training.ipynb` notebook to train the translation models.
 3. Proceed with the `aromanian_translation_execution.ipynb` for performing translations and language detection with the trained models.
-
-## Contributing
-
-Contributions to enhance the project are welcome. Please feel free to suggest improvements or add new features through issues or pull requests.
-
-## License
-
-This project is available under the MIT License. For more information, see the LICENSE file.
